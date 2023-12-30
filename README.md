@@ -13,7 +13,7 @@
 - I'm currently studying Computer Science at VIT Bhopal University.
 - I'm interested in Artificial Intelligence and Machine Learning.
 - In my free time, I solve problems on Leetcode.
--How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]www.linkedin.com/in/riyasingh3105
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/riyasingh3105](https://www.linkedin.com/in/riyasingh3105/))
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
