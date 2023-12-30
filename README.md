@@ -2,7 +2,7 @@ Hi 👋 My name is Riya Singh
 ===========================
 
 Coder
------
+-------
 
 Currently studying Computer Science at VIT Bhopal University. I'm interested in Artificial Intelligence and Machine Learning. In my free time, I solve problems on Leetcode.
 
