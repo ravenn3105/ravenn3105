@@ -2,13 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h1 align="center">This Is Riya Singh. </h1>
+
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/riyasingh3105/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-
+<h1 align="center">This Is Riya Singh. </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -42,6 +38,14 @@ I am a sophomore CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravenn3105&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<h1>🤝 Let's Connect <br></h1>
+<br />
+<a href="https://www.linkedin.com/in/riyasingh3105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya Singh" height="30" width="40" /></a> 
+<a href="https://instagram.com/_.rriyaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Riya Singh" height="30" width="40" /></a>
+<a href="https://discord.com/users/ravenn3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Riya Singh" height="30" width="40" /></a>
+<a href="mailto:riya.singhh3105@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Riya Singh" height="30" width="40" title="Mail - Riya Singh"/></a>
+
+<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
