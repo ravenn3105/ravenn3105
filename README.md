@@ -8,11 +8,13 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenn3105&label=Profile%20views&color=0e75b6&style=flat" alt="ravenn3105" /> </p>
+
 ### :woman_technologist: &nbsp;About Me :
 
-I am a sophomore CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT Bhopal.
+A sophomore CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT Bhopal.
 
-- 🌱 I like to explore new technologies and am currently interested in artificial intelligence and machine learning.
+- 🌱 I like to explore new technologies and am currently working on projects related to artificial intelligence and machine learning.
 - ⚡ In my free time I solve problems on Leetcode.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riyasingh3105/)
 
@@ -29,6 +31,8 @@ I am a sophomore CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 </p>
 
 ---
@@ -41,11 +45,14 @@ I am a sophomore CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCE
 ---
 <h1>🤝 Let's Connect <br></h1>
 <br />
-<a href="https://www.linkedin.com/in/riyasingh3105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Riya Singh" height="30" width="40" /></a> 
-<a href="https://instagram.com/_.rriyaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Riya Singh" height="30" width="40" /></a>
-<a href="https://discord.com/users/ravenn3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Riya Singh" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/riyasingh3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riyasingh3105" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/riyasingh3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyasingh3105" height="30" width="40" /></a>
+<a href="https://instagram.com/_.rriyaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.rriyaa._" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riyasingh3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riyasingh3105" height="30" width="40" /></a>
+<a href="https://discord.com/users/ravenn3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Riya Singh" height="35" width="45" /></a>
 <a href="mailto:riya.singhh3105@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Riya Singh" height="30" width="40" title="Mail - Riya Singh"/></a>
-
+</p>
 <br />
 
 <p align="center">
