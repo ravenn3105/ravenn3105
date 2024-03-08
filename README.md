@@ -15,6 +15,7 @@
 A sophomore CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT Bhopal.
 
 - 🌱 I like to explore new technologies and am currently working on projects related to artificial intelligence and machine learning.
+-  🔭 I’m currently working on **Automating my college's Project exhibition process**
 - ⚡ In my free time I solve problems on Leetcode.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riyasingh3105/)
 
