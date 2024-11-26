@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-
-
 <h1 align="center">This Is Riya Singh. </h1>
+
+
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -15,7 +15,7 @@
 A junior CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT Bhopal.
 
 - 🌱 I like to explore new technologies and am currently working on projects related to artificial intelligence and machine learning.
--  🔭 I’m currently working on **Making a Portfolio using React.js**
+-  🔭 I’m currently working on **Making my Portfolio using React.js**
 - ⚡ In my free time I solve problems on Leetcode or do sudoku.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riyasingh3105/)
 
