@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1tOXl0cmRiNGkwNXd2eXNndWt5cXN6aWtxdnhtNm03Z2duaG4zZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"  /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravenn3105&label=Profile%20views&color=0e75b6&style=flat" alt="ravenn3105" /> </p>
 
