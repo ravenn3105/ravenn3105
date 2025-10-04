@@ -12,11 +12,11 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-A junior CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT Bhopal.
+A senior CS engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at VIT Bhopal.
 
 - 🌱 I like to explore new technologies and am currently working on projects related to artificial intelligence and machine learning.
 -  🔭 I’m currently working on **Making my Portfolio using React.js**
-- ⚡ In my free time I solve problems on Leetcode or do sudoku.
+- ⚡ In my free time, I solve problems on Leetcode or Sudoku.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riyasingh3105/)
 
 ---
