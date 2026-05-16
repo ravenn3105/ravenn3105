@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hello!&fontSize=40&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi, I'm Riya Singh 👋</h1>
+<h1 align="center">I'm Riya Singh 👋</h1>
 
 <h3 align="center">
 Data Scientist • AI Enthusiast • Builder • Problem Solver
