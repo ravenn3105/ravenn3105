@@ -14,7 +14,7 @@ Data Scientist • AI Enthusiast • Builder • Problem Solver
 
 🧠 Data Scientist by profession, curious engineer by nature.  
 🎓 CS graduate from VIT Bhopal.  
-🚀 Currently building **LedgeBook** — a personal expense tracking app built with Flutter.  
+🚀 Currently building **LedgeBook**, a personal expense tracking app built with Flutter.  
 🌱 Exploring AI, machine learning, app development, and anything interesting enough to break and rebuild.  
 ⚡ Outside work, you'll usually find me solving LeetCode problems or obsessing over Sudoku strategies.
 
